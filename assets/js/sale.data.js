@@ -1,0 +1,66 @@
+const propiedades_venta = [
+    {
+      nombre: "Casa en el Bosque",
+      src: "https://fotos.perfil.com/2018/09/21/trim/950/534/nueva-york-09212018-366965.jpg",
+      descripcion: "Hermosa casa rodeada de naturaleza.",
+      ubicacion: "Bosque de la Serenidad",
+      habitaciones: 4,
+      costo: 250000000,
+      smoke: true,
+      pets: true,
+    },
+    {
+      nombre: "Piso Amueblado",
+      src: "https://cdn.bioguia.com/embed/3d0fb0142790e6b90664042cbafcb1581427139/furgoneta.jpg",
+      descripcion: "Piso con muebles elegantes y todas las comodidades.",
+      ubicacion: "Zona Residencial",
+      habitaciones: 2,
+      costo: 180000000,
+      smoke: true,
+      pets: true,
+    },
+    {
+      nombre: "Penthouse de lujo con terraza panorámica",
+      src: "https://resizer.glanacion.com/resizer/fhK-tSVag_8UGJjPMgWrspslPoU=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CUXVMXQE4JD5XIXX4X3PDZAVMY.jpg",
+      descripcion:
+        "Este penthouse de lujo ofrece una terraza panorámica con vistas espectaculares",
+      ubicacion: "567 Skyline Avenue, Skyview City, CA 56789",
+      habitaciones: 3,
+      costo: 200000000,
+      smoke: false,
+      pets: true,
+    },
+    {
+      nombre: "Apartamento en el centro de la ciudad",
+      src: "https://fotos.perfil.com/2018/09/21/trim/950/534/nueva-york-09212018-366965.jpg",
+      descripcion:
+        "Este apartamento de 2 habitaciones está ubicado en el corazón de la ciudad, cerca de todo.",
+      ubicacion: "123 Main Street,Anytown, CA 91234",
+      habitaciones: 2,
+      costo: 250000000,
+      smoke: false,
+      pets: true,
+    },
+    {
+      nombre: "Apartamento luminoso con vista al mar",
+      src: "https://cdn.bioguia.com/embed/3d0fb0142790e6b90664042cbafcb1581427139/furgoneta.jpg",
+      descripcion:
+        "Este hermoso apartamento ofrece una vista impresionante al mar.",
+      ubicacion: "456 Ocean Avenue, Seaside Town, CA 56789",
+      habitaciones: 3,
+      costo: 200000000,
+      smoke: true,
+      pets: true,
+    },
+    {
+      nombre: "Condominio moderno en zona residencial",
+      src: "https://cdn.bioguia.com/embed/3d0fb0142790e6b90664042cbafcb1581427139/furgoneta.jpg",
+      descripcion:
+        "Este elegante condominio moderno está ubicado en una tranquila zona residencial",
+      ubicacion: "123 Main Street, Anytown, CA 91234",
+      habitaciones: 2,
+      costo: 80000000,
+      smoke: false,
+      pets: false,
+    },
+  ];
